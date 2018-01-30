@@ -3,8 +3,9 @@
  * Plugin Name: Algolia WooCommerce Extension
  * Author: Dragoș Cristache
  * Author URI: https://www.webventures.ro/
- * Version: 1.0.0
+ * Version: 1.0.1
  * Description: Add WooCommerce product info (display price, price, regular price, average_rating, rating_count, review_count, sku, total_sales) to the Algolia index.
+ * GitHub Plugin URI: https://github.com/cristacheda/algolia-woocommerce-custom
  */
 
 function aw_product_shared_attributes( array $shared_attributes, WP_Post $post ) {
